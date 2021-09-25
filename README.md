@@ -4,7 +4,7 @@ TK MULTI-SCREEN
 
 ![Example_GIF](EXAMPLE.gif)
 
-![Visitors](https://visitor-badge.deta.dev/badge?page_id=Tk-Multi-Screen.visitor-badge) ![Issues](https://img.shields.io/github/issues/vivekkushalch/Master-Manager) ![Forks](https://img.shields.io/github/forks/vivekkushalch/Master-Manager) ![Stars](https://img.shields.io/github/stars/vivekkushalch/Master-Manager) ![Lisence](https://img.shields.io/github/license/vivekkushalch/Master-Manager)
+![Visitors](https://visitor-badge.deta.dev/badge?page_id=Tk-Multi-Screen.visitor-badge) ![Issues](https://img.shields.io/github/issues/vivekkushalch/Tk-Multi-Screen) ![Forks](https://img.shields.io/github/forks/vivekkushalch/Tk-Multi-Screen) ![Stars](https://img.shields.io/github/stars/vivekkushalch/Tk-Multi-Screen) ![Lisence](https://img.shields.io/github/license/vivekkushalch/Tk-Multi-Screen)
 
 
 Made With
